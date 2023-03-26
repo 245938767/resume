@@ -1,4 +1,4 @@
-# 我VsCode中的Vim配置
+# 我VsCode中的Vim配置Mac
 
 ```vim
  "vim.visualModeKeyBindingsNonRecursive": [
